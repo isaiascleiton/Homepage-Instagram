@@ -1,2 +1,2 @@
 # Homepage-Instagram
-Projeto desenvolvido durante um bootcamp na Digital Inovation One.
+Projeto desenvolvido durante um bootcamp na Digital Innovation One.
